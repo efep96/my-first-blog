@@ -5,3 +5,4 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+# db.sqlite3 is the database where posts are stored, ignoring it (having it in this file) means that posts created so far will remain locally and allows you to test website in different ways without deleting real posts
